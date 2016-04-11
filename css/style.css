@@ -732,10 +732,11 @@ ul.contact_info span.msg:hover{
 }
 .copy{
 	float:left;
-	margin-top: 13px;
+	margin-top: 26px;
 }
 .copy p{
 	color:#fff;
+	margin-left:205px;
 }
 .copy p a{
 	color:#FB6152;
